@@ -2,7 +2,7 @@
 
     require_once("./includes/functions.inc.php");
     if(!$_POST){
-        die("Trying to hack me  ????");
+        die("Hacking??");
     }else{
         if(isset($_POST["delete_id"])){
         
